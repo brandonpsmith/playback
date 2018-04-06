@@ -1,0 +1,13 @@
+{
+  "name": "playback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Brandon Smith",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "pkg-config": "^1.1.1",
+    "shorthash": "0.0.2"
+  }
+}
